@@ -9,11 +9,12 @@
 
 #### Downloads
 *For this project, the android and iOS versions are still not supported, so please be patient! [No joystick input atm]
+[For ppl with GitHub access dl below!]
 - [Windows](https://github.com/Gdn92/GD_G2/releases/download/dev-test/test4_win.exe)
 - [Mac](https://github.com/Gdn92/GD_G2/releases/download/dev-test/test4_macos.dmg)
 - [Linux - checking!](https://github.com/Gdn92/GD_G2/releases/download/dev-test/test4_linux.x86_64)
 
-[FOR PPL WHO DONT HAVE THE GITHUB ACCESS]
+[For ppl with non-GitHub access just dl thru the links below instead!]
 - [Windows](https://drive.google.com/uc?export=download&id=1qyV0oDskNfrDP8OOoMY6aBbxpCT10Eno)
 - [Mac](https://drive.google.com/uc?export=download&id=1dUWjDWJPS1BKXXTxgouHrTx0wZj5pcfT)
 - [Linux - checking!](https://drive.google.com/uc?export=download&id=1V7fWqHqW54ihBquNFA9QN2bfzB5WdSg6)
