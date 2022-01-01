@@ -36,9 +36,7 @@
 
 gdn92.github.io v1 , Gdn92/gdnkei0, 2021-20xx.
 
-12
-- [Windows](https://github.com/Gdn92/GD_G2/releases/download/dev-test/test4_win.exe)
-13
-- [Mac](https://github.com/Gdn92/GD_G2/releases/download/dev-test/test4_macos.dmg)
-14
-- [Linux](https://github.com/Gdn92/GD_G2/releases/download/dev-test/test4_linux.x86_64
+
+
+
+hi
