@@ -16,7 +16,7 @@
 #### How to test
 - To test, just launch 2 instances of the game on your local machine [windows, mac, or linux] - and check if they can connect to each other! 
 - On both instances, click the 'LAN' button
-- On one instance of the machine, click 'Host'.  [This instance eill now be the host]
+- On one instance of the machine, click 'Host'.  [This instance will now be the host]
 - If the other game instance can't find the host instance automatically, click 'Manual setup' and key in the IP address seen at the bottom of the screen :)
 - Once you've done that, it should join you to the host instance [^^^!!!!!]
 [Once i've gotten round to adding online, you should be able to click 'Online' without the game crashing or giving errors :D]
