@@ -11,7 +11,12 @@
 *For this project, the android and iOS versions are still not supported, so please be patient! [No joystick input atm]
 - [Windows](https://github.com/Gdn92/GD_G2/releases/download/dev-test/test4_win.exe)
 - [Mac](https://github.com/Gdn92/GD_G2/releases/download/dev-test/test4_macos.dmg)
-- [Linux](https://github.com/Gdn92/GD_G2/releases/download/dev-test/test4_linux.x86_64)
+- [Linux - checking!](https://github.com/Gdn92/GD_G2/releases/download/dev-test/test4_linux.x86_64)
+
+[FOR PPL WHO DONT HAVE THE GITHUB ACCESS]
+- [Windows](https://drive.google.com/uc?export=download&id=1qyV0oDskNfrDP8OOoMY6aBbxpCT10Eno)
+- [Mac](https://drive.google.com/uc?export=download&id=1dUWjDWJPS1BKXXTxgouHrTx0wZj5pcfT)
+- [Linux - checking!](https://drive.google.com/uc?export=download&id=1V7fWqHqW54ihBquNFA9QN2bfzB5WdSg6)
 
 #### How to test
 - To test, just launch 2 instances of the game on your local machine [windows, mac, or linux] - and check if they can connect to each other! 
